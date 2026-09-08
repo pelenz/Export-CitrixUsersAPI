@@ -52,7 +52,7 @@ Zadejte server s Monitor Service. Nemusí jít o stejný server, na kterém bě�
    .\Export-CitrixUsers.ps1
    ```
 
-Skript automaticky použije ** aktuální Windows účet přes NTLM. ** Nezobrazuje výzvu k zadání přihlašovacích údajů.
+Skript automaticky použije **aktuální Windows účet přes NTLM.** Nezobrazuje výzvu k zadání přihlašovacích údajů.
 
 Pro HTTPS například nastavte:
 
