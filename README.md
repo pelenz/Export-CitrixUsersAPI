@@ -8,7 +8,7 @@ PowerShell skript pro export unikátních uživatelů z on-premise Citrix Monito
 - Samostatné CSV pro každý měsíc.
 - Jeden řádek na unikátní `UserId` v rámci měsíce.
 - Zahrnutí prvních připojení i reconnectů.
-- NTLM autentizace pomocí aktuálního Windows účtu, bez zadávání hesla ve skriptu.
+- NTLM autentizace pomocí aktuálního Windows účtu, bez zadávání hesla ve skriptu. (on-prem API endpoint - pro DaaS je třeba upravit script)
 - Podpora HTTP i HTTPS.
 - Načtení všech stránek výsledků API.
 - Převod hranic měsíců z českého časového pásma do UTC, včetně letního času.
