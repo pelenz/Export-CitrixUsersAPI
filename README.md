@@ -1,6 +1,7 @@
 # Citrix Monitor – měsíční export uživatelů
 
 PowerShell skript pro export unikátních uživatelů z on-premise Citrix Monitor OData API. Za zvolený počet posledních dokončených měsíců vytvoří samostatná CSV a v konzoli zobrazí měsíční počty uživatelů.
+**Testováno na CSP accountu**
 
 ## Funkce
 
